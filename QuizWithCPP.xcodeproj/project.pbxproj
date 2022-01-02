@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FB4069A12781AFCC0083318C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FB4069A02781AFCC0083318C /* main.cpp */; };
+		FB4069A82781B5120083318C /* QuizLevelTwo1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FB4069A72781B5120083318C /* QuizLevelTwo1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		FB40699D2781AFCC0083318C /* QuizWithCPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = QuizWithCPP; sourceTree = BUILT_PRODUCTS_DIR; };
-		FB4069A02781AFCC0083318C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FB4069A72781B5120083318C /* QuizLevelTwo1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = QuizLevelTwo1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		FB40699F2781AFCC0083318C /* QuizWithCPP */ = {
 			isa = PBXGroup;
 			children = (
-				FB4069A02781AFCC0083318C /* main.cpp */,
+				FB4069A72781B5120083318C /* QuizLevelTwo1.cpp */,
 			);
 			path = QuizWithCPP;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB4069A12781AFCC0083318C /* main.cpp in Sources */,
+				FB4069A82781B5120083318C /* QuizLevelTwo1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
